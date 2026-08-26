@@ -7,21 +7,19 @@ Technologies:
 - Vanilla JavaScript
  Check my portfolio if interested = https://bii-ey-portfolio-website-2026.netlify.app/
 
-✨ Features
-Responsive design — works across desktop, tablet, and mobile
-Modern landing-page structure
-HTML5 semantic structure
-CSS3 styling
-CSS Variables for easy color customization
-Flexbox layout
-CSS Grid layout
-Product cards
-Customer testimonials
-Contact section
-Contact form UI
-Responsive navigation
-Easy-to-edit content
-No frameworks required
+✨ Features:
+- Responsive design — works across desktop, tablet, and mobile
+- Modern landing-page structure
+- HTML5 semantic structure
+- CSS Variables for easy color customization
+- Flexbox layout
+- CSS Grid layout
+- Product cards
+- Customer testimonials
+- Contact section
+- Responsive navigation
+- Easy-to-edit content
+- No frameworks required
 
 What you'll get
 Modern-Landing-Page/
