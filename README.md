@@ -15,10 +15,6 @@ CSS3 styling
 CSS Variables for easy color customization
 Flexbox layout
 CSS Grid layout
-Light/Dark mode
-Theme preference saved with localStorage
-Smooth scrolling
-Hover animations
 Product cards
 Customer testimonials
 Contact section
