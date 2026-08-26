@@ -1,2 +1,42 @@
-# Modern-Landing-Page-Website-Template
-A modern, clean, and customizable landing page designed to showcase your product or service and turn visitors into customers. Includes a structured hero section, benefits, social proof, storytelling, guarantee, and strong call-to-action sections. Fully responsive and easy to customize.
+# Modern Responsive Landing Page Template — HTML5, CSS3 & JavaScript
+A clean, responsive, and customizable landing page template built with HTML5, CSS3, and vanilla JavaScript. Designed for businesses, startups, products, services, portfolios, and personal projects. Includes multiple content sections, responsive layouts, Flexbox, CSS Grid, a contact form, and a persistent light/dark mode toggle.
+
+Technologies:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+✨ Features
+Responsive design — works across desktop, tablet, and mobile
+Modern landing-page structure
+HTML5 semantic structure
+CSS3 styling
+CSS Variables for easy color customization
+Flexbox layout
+CSS Grid layout
+Light/Dark mode
+Theme preference saved with localStorage
+Smooth scrolling
+Hover animations
+Product cards
+Customer testimonials
+Contact section
+Contact form UI
+Responsive navigation
+Easy-to-edit content
+No frameworks required
+
+What you'll get
+Modern-Landing-Page/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── product-1.jpg
+│   ├── product-2.jpg
+│   └── product-3.jpg
+│
+└── README.txt
