@@ -7,7 +7,7 @@ Technologies:
 - Vanilla JavaScript
 <br>
 Check my portfolio if interested = https://bii-ey-portfolio-website-2026.netlify.app/
-
+<hr>
 ✨ Features:
 - Responsive design — works across desktop, tablet, and mobile
 - Modern landing-page structure
