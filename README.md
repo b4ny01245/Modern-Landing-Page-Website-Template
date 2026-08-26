@@ -5,7 +5,8 @@ Technologies:
 - HTML5
 - CSS3
 - Vanilla JavaScript
- Check my portfolio if interested = https://bii-ey-portfolio-website-2026.netlify.app/
+<br>
+Check my portfolio if interested = https://bii-ey-portfolio-website-2026.netlify.app/
 
 ✨ Features:
 - Responsive design — works across desktop, tablet, and mobile
