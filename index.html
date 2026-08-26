@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Sample Landing Page</title>
+    <link rel="icon" href="assets/image.jpg">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body id="home">
+    <header>
+        <div class="head">
+            <img src="assets/image.jpg" alt="myLogo">
+            <strong>My Sample Landing Page</strong>
+
+            <button class="menu-toggle" id="menu-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
+            <nav id="nav-menu">
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#products">Products</a>
+                <a href="#review">Reviews</a>
+                <a href="#contact">Contact</a>
+                <button id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+            </nav>
+        </div>
+    </header>
+    <hr>
+    <main>
+        <section class="hero">
+            <h1>Let's Build your Landing website faster</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem fugiat ut saepe minima. Rem, inventore
+                consectetur. Laboriosam dolores rerum dolorem. Repellendus deleniti labore recusandae harum voluptatem
+                quae repellat ex dicta. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, voluptates in,
+                aut modi reiciendis rerum nulla ullam eaque possimus dolor expedita voluptatem vitae facere illo totam
+                obcaecati numquam! Libero, omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum recusandae, reiciendis corporis dolore magnam porro? Dolore odit ea, libero tempore enim exercitationem! Nisi ratione praesentium iste dolores sunt porro exercitationem.</p>
+
+            <a href="#products">View Products</a>
+        </section><hr>
+
+        <section id="about">
+            <h1>About Us</h1>
+            <img src="assets/companyowner.jpg" alt="Picture of the company/office/owners">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni fugiat ex est voluptate, illum,
+                voluptatibus aliquid placeat illo, earum beatae quis! Officia quas consequuntur debitis, laborum nihil
+                ducimus esse exercitationem!</p>
+            <br>
+            <h3>Company History</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur, harum dolorem impedit delectus
+                voluptatem dolor fuga quas totam dicta repudiandae fugiat officiis omnis eaque esse! Quo incidunt
+                voluptate sunt consequatur.</p>
+            <br>
+            <h3>Company Vision</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure optio, eligendi quis sequi est at natus
+                maiores in repellendus alias? Fuga, nesciunt aliquam facilis totam maxime molestiae et obcaecati ullam.
+            </p>
+            <br>
+            <h3>Company Mission</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod eaque mollitia rem! Libero facilis minus id
+                culpa corporis. Perferendis, ducimus. Nemo magnam neque praesentium temporibus quidem corporis
+                dignissimos minus iure?</p>
+        </section>
+        <hr>
+
+        <section id="products" class="flexbox-products">
+            <h1>Our Products</h1>
+            <div class="flex1">
+                <img src="assets/1stprod.jpg" alt="First Product Display">
+                <h3>First Product</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, excepturi quam labore dolore
+                    deserunt ipsum quia minus. Ducimus vitae, iure corrupti non, et adipisci debitis vel harum veniam
+                    alias consectetur?</p>
+            </div>
+            <div class="flex2">
+                <img src="assets/2ndprod.jpg" alt="Second Product Display">
+                <h3>Second Product</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, excepturi quam labore dolore
+                    deserunt ipsum quia minus. Ducimus vitae, iure corrupti non, et adipisci debitis vel harum veniam
+                    alias consectetur?</p>
+            </div>
+            <div class="flex3">
+                <img src="assets/3rdprod.jpg" alt="Third Product Display">
+                <h3>Third Product</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, excepturi quam labore dolore
+                    deserunt ipsum quia minus. Ducimus vitae, iure corrupti non, et adipisci debitis vel harum veniam
+                    alias consectetur?</p>
+            </div>
+        </section>
+
+        <section id="review">
+            <h1>Reviews from customers</h1>
+            <div class="review">
+                <blockquote>
+                    "This made building my website so much easier!"
+                    <p><strong>— John Da</strong></p>
+                </blockquote>
+
+                <blockquote>
+                    "This made building my website so much easier!"
+                    <p><strong>— John De</strong></p>
+                </blockquote>
+
+                <blockquote>
+                    "This made building my website so much easier!"
+                    <p><strong>— John Do</strong></p>
+                </blockquote>
+                
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <h1>Contact Us</h1>
+            <div class="contact-grid">
+                <div class="contact-card">
+                    <h3>Let’s talk</h3>
+                    <p>Have questions about our services or want to discuss a project? We’d love to hear from you.</p>
+                    <ul class="contact-list">
+                        <li>Email: sample@company.com</li>
+                        <li>Phone: +63912-153-4567</li>
+                        <li>Location: 123 Company Site, Metro Manila 200</li>
+                    </ul>
+                </div>
+
+                <form class="contact-form">
+                    <input type="text" name="name" placeholder="Your Name" aria-label="Your Name">
+                    <input type="email" name="email" placeholder="Your Email" aria-label="Your Email">
+                    <textarea name="message" rows="5" placeholder="Your Message" aria-label="Your Message"></textarea>
+                    <button type="submit">Send Message</button>
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <img src="assets/image.jpg" alt="myLogo">
+        <p>&copy; b4ny01245. All rights reserved.</p>
+        <a href="#home">Back to Top</a>
+    </footer>
+</body>
+</html>
